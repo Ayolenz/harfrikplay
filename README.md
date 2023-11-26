@@ -1,2 +1,2 @@
 # harfrikplay
-this is my harfrikplay project
+this is my harfrikplay test project
